@@ -2,13 +2,12 @@ body {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 header {
   display: flex;
   width: 100%;
-  height: 6em;
   border-bottom: 1px solid grey;
 }
 
@@ -30,7 +29,7 @@ h2 {
 h3 {
   font-size: 1.3em;
   font-weight: 300;
-  /*margin-left: 1em;*/
+  text-align: center;
 }
 
 h4 {
@@ -45,11 +44,27 @@ a {
   color: #00f4cb;
 }
 
+p {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+}
+
+#best_app {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 .logo {
   /*width: 20%;*/
   flex-grow: 0.2;
-  padding-left: 1em;
-  padding-top: 0.5em;
+  padding-left: 0.5em;
+  padding-top: 0.3em;
+}
+
+img.logo {
+  width: 4em;
 }
 
 .name-title {
