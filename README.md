@@ -19,4 +19,3 @@ A basic HTML/CSS template for a portfolio site.
 
 * Fully responsive, flexible layouts for smart-phones, iPads, and desktops
 * Utilizes art directions with srcset, sizes, picture elements, HTML5
-# Portfolio-Site
